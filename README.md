@@ -70,10 +70,10 @@ check out the sql_queries.py
 
 **Query Examples**
 
-![alt text](./songplays_aws.PNG)
+![alt text](./songplays_aws.png)
 
 
-![alt text](./number_of_song_by_top_artist.PNG)
+![alt text](./number_of_song_by_top_artist.png)
 
 -----
 NOTE: End of the project cluster has been deleted
